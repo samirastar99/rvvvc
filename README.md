@@ -1,7 +1,9 @@
 ## Todo App
 
 Simple Todo app with Node.js and Express.
+
 ## Requirements
+
 - [Node and npm](http://nodejs.org)
 - ## Installation
 
